@@ -1,2 +1,2 @@
-# My_first_Research_project_using_ML
+# Research_project_using_ML
 This repository contains the research project I have finished in the topic 'Assessment of cyber security awareness of ICT employees in India'. It is a quantitative project where survey is conducted for data collection and analysed the data using ML techniques such as SVC, PCA and also various data visualization packages in Python such as matplotlib, joypy, seaborn, etc. 
